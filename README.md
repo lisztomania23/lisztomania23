@@ -2,6 +2,8 @@
 
 <img src="https://i.ibb.co/Dr8sY1f/xo-weeknd-gitter.gif" alt="xo-weeknd-gitter" border="0">
 
+![xo-weeknd-gitter](https://i.ibb.co/Dr8sY1f/xo-weeknd-gitter.gif)
+
 
 <!--
 **lisztomania23/lisztomania23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
