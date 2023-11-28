@@ -2,7 +2,7 @@
 
 <img src="xo-img/xo-weeknd-gitter.gif" alt="xo-weeknd-gitter" border="0">
 
-
+![](https://komarev.com/ghpvc/?username=lisztomania23&label=Views&base=1000&color=grey)
 <!--
 **lisztomania23/lisztomania23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
